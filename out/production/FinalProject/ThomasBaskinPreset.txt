@@ -1,0 +1,14 @@
+boat
+box
+car
+eggs
+fox
+goat
+ham
+house
+mouse
+rain
+sam
+train
+tree
+mother
